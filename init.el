@@ -1,4 +1,4 @@
-(defvar my-packages '(cider solarized-theme paredit markdown-mode ess))
+(defvar my-packages '(cider solarized-theme paredit markdown-mode ess inf-ruby))
 
 (require 'package)
 (add-to-list 'package-archives
