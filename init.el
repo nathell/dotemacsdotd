@@ -1,4 +1,4 @@
-(defvar my-packages '(auctex cider solarized-theme paredit markdown-mode ess inf-ruby csv-nav typo nav coffee-mode haml-mode))
+(defvar my-packages '(auctex cider solarized-theme paredit markdown-mode ess inf-ruby csv-nav typo nav coffee-mode haml-mode projectile rinari))
 
 (require 'package)
 (add-to-list 'package-archives
@@ -17,7 +17,6 @@
 (add-hook 'cider-mode-hook
   (lambda ()
     (paredit-mode +1)
-    (cider-turn-on-eldoc-mode)
     (define-key cider-mode-map [f12] 'cider-eval-buffer)))
 
 ;; full screen
