@@ -4,8 +4,10 @@
         cider
         color-theme-sanityinc-tomorrow
         company
+        company-prescient
         counsel
         counsel-projectile
+        ivy-prescient
         magit
         markdown-mode
         paredit

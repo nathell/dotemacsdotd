@@ -1,3 +1,5 @@
 (ivy-mode)
+(ivy-prescient-mode)
 (global-company-mode)
+(company-prescient-mode)
 (global-set-key (kbd "TAB") #'company-indent-or-complete-common)

@@ -2,3 +2,5 @@ auto-save-list
 elpa
 transient
 .cache
+projectile-bookmarks.eld
+projectile.cache
