@@ -7,6 +7,7 @@
         company-prescient
         counsel
         counsel-projectile
+        git-link
         ivy-prescient
         magit
         markdown-mode
@@ -14,6 +15,7 @@
         pass
         projectile
         projectile-ripgrep
+        rust-mode
         typo))
 
 ;; run M-x package-install-selected-packages on startup
