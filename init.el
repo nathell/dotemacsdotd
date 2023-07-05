@@ -7,6 +7,7 @@
         company-prescient
         counsel
         counsel-projectile
+        ess
         git-link
         ivy-prescient
         magit
