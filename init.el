@@ -7,6 +7,7 @@
         company-prescient
         counsel
         counsel-projectile
+        doom-themes
         ess
         git-link
         ivy-prescient
