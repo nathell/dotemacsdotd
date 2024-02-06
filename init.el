@@ -7,6 +7,7 @@
         company-prescient
         counsel
         counsel-projectile
+        direnv
         doom-themes
         ess
         git-link
@@ -18,6 +19,7 @@
         projectile
         projectile-ripgrep
         rust-mode
+        typescript-mode
         typo))
 
 ;; run M-x package-install-selected-packages on startup
